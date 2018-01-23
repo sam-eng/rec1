@@ -21,4 +21,5 @@
 void main() {
     /* similar to System.out.printf */  
     printf("Hello world! (basic.c)\n");
+    printf("Hello CSO. My name is Samantha Eng!\n");
 }
